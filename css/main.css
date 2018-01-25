@@ -31,9 +31,13 @@ h1 {
 }
 
 p {
-    font-size: 1.5em;
-    line-height: 1.4em;
+    font-size: 1.2em;
+    line-height: 1.7em;
     color: #333;
+}
+
+.meta {
+    font-weight: bold;
 }
 
 footer {
