@@ -27,11 +27,18 @@ Below are what I have completed:
 
 <div style="text-align:center" markdown="1">
 Site Map
+
 ![Site Map](/images/sitemap.jpg){:height="50%" width="50%"}
+
 Low-fidelity Wireframe
+
 ![Low-fidelity Wireframe](/images/low-fid-wireframe.jpg){:height="50%" width="50%"}
+
 High-fidelity Wireframe
+
 ![High-fidelity Wireframe](/images/high-fid-wireframe.jpg){:height="50%" width="50%"}
+
 Mockup
+
 ![Mockup](/images/mockup.jpg){:height="50%" width="50%"}
 </div>
